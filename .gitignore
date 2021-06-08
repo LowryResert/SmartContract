@@ -1,2 +1,4 @@
 *.abi
 *.bin
+.vscode
+.DS_Store
